@@ -1,6 +1,9 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =4
-let g:netrw_dirhist_1='/Users/dhernandez'
-let g:netrw_dirhist_2='/Users/dhernandez/PHP'
-let g:netrw_dirhist_3='/Users/dhernandez'
-let g:netrw_dirhist_4='/Volumes/caseSensitive/mailchimp'
+let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_1='/Volumes/caseSensitive/mailchimp/web/js'
+let g:netrw_dirhist_2='/Volumes/caseSensitive/mailchimp/web/js/mojo'
+let g:netrw_dirhist_3='/Volumes/caseSensitive/mailchimp/web/js/mojo/views'
+let g:netrw_dirhist_4='/Volumes/caseSensitive/mailchimp/web/js/mojo/views/account'
+let g:netrw_dirhist_5='/Users/dhernandez/PHP/laracasts/command-line-apps'
+let g:netrw_dirhist_6='/Users/dhernandez/Google Drive/Workspace/logs'
+let g:netrw_dirhist_7='/Users/dhernandez/exercism/php/hamming'
